@@ -9,9 +9,10 @@
 *Title:* **System Development @ Credence (TM Subsidiary)** <br>
 *Date:* 28th December 2023 <br>
 *Time:* 2.30pm-4.30pm <br>
+*Platform:* Webex <br>
 
 # Report
-
+[FULL REPORT](report_industrialtalk2.pdf) <br>
 
 
 # Reflection
